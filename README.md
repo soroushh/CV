@@ -1,25 +1,23 @@
-## Your Name
+## Soroush Khosravi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an idealist, who uses the term "why" much more than "how", believing if there is a good reason behind every action, everybody will be presistent enough to find a way.
+As a former mechanical engineer in Tehran, I have achieved various abilities including solving problem and communicating with different people  during three years of my job. Engineers are meant to ecounter to  problems. In addition, sometimes they see the problems which is hardly visible.
+I am looking for chances  to realize some ideas by web developement tools. It would be very pleasurable for me to take part in the idea creating phase, too. In fact, I like the enviroment that I am given the freedom to create some ideas to execute.  working with people who like challenges is something I am looking forward to. 
 
 ## Skills
 
-#### This Skill
+#### Problem solving
+I have got a problem solving ability which enables me to find solutions to various range of problems during my job.
+I worked three years as a production mechanical engineer in Idaj engineering company in Tehran. during working in a fast-paced product line, you have to encounter any kind of problem ranging from human work force to engineering issues. having to solve various problems in the least time and expence, improved
+my problem solving skills. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Trainig
+I have got the ability to teach people with different learning characteristics the concept they need.
+During my studies in Sharif University of Technology, I worked as a private high school teacher to teach the students maths ans physics. Teaching privately to different students enabled me to adjust my teaching methods based on every student's characteristics. 
 
-- Experience
-- Achievements
-- Evidence
+#### Noticing details
+being exposed to fast-paced enviroments during my studies in university has made me a person who notices every detail before doing anything. I consider every factor that affects my job, then I start. I try to improve the process to do a job by decreasing the time for trial an error as much as I can.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -34,17 +32,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Sharif University of Technology (Tehran 2012-2014 )
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+MS in mechanical engineering
+- Advanced mathematics
+- Continues mechanics
+- Advanced mechanism design
 
-#### Any other qualifications
+#### Sharif University of Technology (Tehran 2008-2012)
+
+BS in mechanical engineering
+- Introduction to programming
+- Numerical computation
+- General math
+- General physics
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Idaj Engineering company (Tehran)** (2014  to 2017)    
+*Production mechanical engineer*  
+  
+
+
+
