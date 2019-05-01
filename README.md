@@ -10,7 +10,7 @@ As a passionate full stack developer who is really interested in learning new co
 
 | Project   |      Overview      |  Tech stack |
 |----------|-------------|------|
-| [Acebook](https://github.com/soroushh/acebook-bcds) | <p style="text-align: justify">It was a two week project for a team containing 4 people. The goal of the project was writing an application with the facebook's capabilities by Agile methodologies. It was my first experience using Ruby on Rails and ActiveRecord as the ORM.</p>   | <p align="justify">Ruby on Rails , Rspec, Capybara, CSS, HTML, Travis CI , Heroku </p> |
+| [Acebook](https://github.com/soroushh/acebook-bcds) | <p style="text-align: justify">It was a two week project for a team containing 4 people. The goal of the project was writing an application with the facebook's capabilities by Agile methodologies. It was my first experience using Ruby on Rails and ActiveRecord as the ORM.</p>   | <p align="justify">Ruby on Rails <br /> Rspec <br /> Capybara <br /> CSS <br /> HTML <br /> Travis CI <br /> Heroku </p> |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
