@@ -10,9 +10,9 @@ As a passionate full stack developer who is really interested in learning new co
 
 | Project   |      Overview      |  Tech stack |
 |----------|-------------|------|
-| [Acebook](https://github.com/soroushh/acebook-bcds) | <p style="text-align: justify">It was a two week project for a team containing 4 people. The goal of the project was writing an application with the facebook's capabilities by Agile methodologies. It was my first experience using Ruby on Rails and ActiveRecord as the ORM.</p>   | <p align="justify">Ruby on Rails <br /> Rspec <br /> Capybara <br /> CSS <br /> HTML <br /> Travis CI <br /> Heroku </p> |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| [Acebook](https://github.com/soroushh/acebook-bcds) | <p style="text-align: justify">It was a two week project for a team containing 4 people. The goal of the project was writing an application with the facebook's capabilities by Agile methodologies. It was my first experience using Ruby on Rails and ActiveRecord as the ORM.</p>   |Ruby on Rails <br />Ruby <br/> Rspec <br /> Capybara <br /> CSS <br /> HTML <br /> Travis CI <br /> Heroku  |
+| [Makers_Bnb](https://github.com/soroushh/MakersBnB_Need_Sleep_Team) |<p style="text-align: justify">It was a two-week project for a group containing four developers. We wrote a web application in which people can rent the spaces for bed and breakfast.</p> |Sinatra <br />Ruby <br/> Rspec <br /> Capybara <br /> HTML <br /> CSS |
+| [Thermostat](https://github.com/soroushh/Thermostat) |<p style="text-align: justify">In this project, a single page application has been written. The operation of a thermostat has been simulated. You can realise your city's temperature by means of an API, then you can use the thermostat buttons to set the temperature. </p> |JavaScript <br /> jQuery <br /> Jasmine </br> |
 
 ## Skills
 
