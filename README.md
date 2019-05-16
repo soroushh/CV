@@ -8,7 +8,9 @@ As a passionate full stack developer who is really interested in learning new co
 |----------|-------------|------|
 | [Acebook](https://github.com/soroushh/acebook-bcds) | <p style="text-align: justify">It was a two week project for a team containing 4 people. The goal of the project was writing an application with the facebook's capabilities by Agile methodologies. It was my first experience using Ruby on Rails and ActiveRecord as the ORM.</p>   |Ruby on Rails <br />Ruby <br/> Rspec <br /> Capybara <br /> CSS <br /> HTML <br /> Travis CI <br /> Heroku  |
 | [Makers_Bnb](https://github.com/soroushh/MakersBnB_Need_Sleep_Team) |<p style="text-align: justify">It was a two-week project for a group containing four developers. We wrote a web application in which people can rent the spaces for bed and breakfast.</p> |Sinatra <br />Ruby <br/> Rspec <br /> Capybara <br /> HTML <br /> CSS |
+| [Bowling game](https://github.com/soroushh/bowling-challenge)        | <p style="text-align: justify">This project is a web application in which you can enter your bowling pins in each round and your score at the end of the tenth round will be shown.</p>  |Javascript <br /> Jquery <br /> test framework: <br /> Jasmine |
 | [Thermostat](https://github.com/soroushh/Thermostat) |<p style="text-align: justify">In this project, a single page application has been written. The operation of a thermostat has been simulated. You can realise your city's temperature by means of an API, then you can use the thermostat buttons to set the temperature. </p> |JavaScript <br /> jQuery <br /> Jasmine </br> |
+| [Rock_Paper_Scissors Game](https://github.com/soroushh/rps-challenge)| <p style="text-align: justify">This is a web application for playing Rock_Paper_Scissors with the computer. You enter your name and movement and compete with the computer selecting a random movement.</p> |Sinatra <br /> Ruby <br/>test frameworks: <br /> RSpec,Capybara |
 
 ## Skills
 
@@ -20,7 +22,7 @@ Learnt Ruby language on my own in two months before taking part in Makers Academ
 Learnt Javascript, Ruby on Rails, Sinatra and the corresponding test frameworks during a three month course in Makers Academy and conducted different projects.
 ### Problem solving
 Worked three years as a production mechanical engineer team in a busy product line with 200 workers and had to solve all sort of problems to maintain the production rate.
-### Persistency 
+### Persistency
 Improved my coding skills in a very technical environment despite being a newcomer in London as the first English speaking country lived in during 9 months.
 
 
@@ -39,14 +41,14 @@ Improved my coding skills in a very technical environment despite being a newcom
 
 #### Sharif University of Technology (Tehran 2012-2014 )
 
-MS in mechanical engineering
+MSc in mechanical engineering
 - Advanced mathematics
 - Continues mechanics
 - Advanced mechanism design
 
 #### Sharif University of Technology (Tehran 2008-2012)
 
-BS in mechanical engineering
+BSc in mechanical engineering
 - Introduction to programming
 - Numerical computation
 - General math
