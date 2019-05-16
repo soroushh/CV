@@ -15,15 +15,15 @@ I am a software developer, former mechanical engineer and graduate of [Makers](h
 
 ## Skills
 
-### Passionate about coding
+#### Passionate about coding
 I found my interest in coding during the automation of mechanical tool design as a mechanical engineer. Then I
 prepared myself for taking part in a well_known bootcamp by learning Ruby and I was accepted to the [Makers](https://makers.tech) between a lot of candidates
-### Learning concepts quickly
+#### Learning concepts quickly
 I learnt Ruby language on my own in two months before taking part in [Makers](https://makers.tech).
 Learnt Javascript, Ruby on Rails, Sinatra and the corresponding testing frameworks during a three month course in Makers Academy and conducted different projects.
-### Problem solving
+#### Problem solving
 I worked three years as a production mechanical engineer team in a busy product line with 200 workers and had to solve all sort of problems to maintain the production rate. Being exposed to all sort of problems including technical ones has made me a problem solver person.
-### Persistency
+#### Persistency
 I improved my coding skills in a very technical environment despite being a newcomer in London as the first English speaking country lived in during 9 months. I have been here in London less than two years.
 
 ## Education
@@ -46,18 +46,18 @@ I improved my coding skills in a very technical environment despite being a newc
  - Conducted projects related to initiation and growth of cracks in metals and calculating the required force of Aluminium extrusion.  
 
 #### BEng in Mechanical Engineering
-- Sharif University of Technology         (2008 - 2012)
+#### Sharif University of Technology         (2008 - 2012)
  - Obtained Iranian qualification of 15.32/20.
  - Conducted projects related to designing of mechanical tools like gearboxes and ball bearings.
 
 ## Work experience
--   Idaj Engineering Company(2014-2017)
+####  Idaj Engineering Company(2014-2017)
  -  Worked as a production mechanical engineer in Idaj which is a large-scaled company in Tehran, producing brakes and torsion bars for vehicles.
  - Automated the manual design procedures using Python.
  - Designed assembly tools for the production line.
 
 
-- Kanun Farhangi Amoozesh(2012-2014)
+#### Kanun Farhangi Amoozesh(2012-2014)
   - Worked as maths and physics instructor in a private educational institute in Tehran.
 
 ## Interests
