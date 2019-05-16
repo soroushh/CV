@@ -41,7 +41,7 @@ I improved my coding skills in a very technical environment despite being a newc
 
 
 #### MEng in Mechanical Engineering  
-- Sharif University of Technology         (2012 - 2014)
+#### Sharif University of Technology         (2012 - 2014)
  - Obtained Iranian qualification of 15.66/20.
  - Conducted projects related to initiation and growth of cracks in metals and calculating the required force of Aluminium extrusion.  
 
