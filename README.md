@@ -28,7 +28,7 @@ I improved my coding skills in a very technical environment despite being a newc
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February-2019  to May-2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
